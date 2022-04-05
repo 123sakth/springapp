@@ -10,4 +10,4 @@ spec:
     targetPort: 8080
   type: LoadBalancer
   selector:
-    app:  newspringapp-deployment
+    app: newspringapp-deployment
